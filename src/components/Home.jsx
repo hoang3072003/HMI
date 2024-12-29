@@ -26,7 +26,7 @@ const Home = () => {
 
                 {/* Right Section: Images */}
                 <div className="lg:w-1/2 flex justify-center mt-8 lg:mt-0 space-x-4">
-                    <img src="/banner5.jpg" alt="Mockup 1" className="h-96 shadow-lg" />
+                    <img src="/HMI/banner5.jpg" alt="Mockup 1" className="h-96 shadow-lg" />
                 </div>
             </div>
 
