@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medicalhmi/static/css/main.16ac39f3.css",
+    "main.js": "/medicalhmi/static/js/main.75b5210a.js",
+    "static/js/453.9f5fe743.chunk.js": "/medicalhmi/static/js/453.9f5fe743.chunk.js",
+    "index.html": "/medicalhmi/index.html",
+    "main.16ac39f3.css.map": "/medicalhmi/static/css/main.16ac39f3.css.map",
+    "main.75b5210a.js.map": "/medicalhmi/static/js/main.75b5210a.js.map",
+    "453.9f5fe743.chunk.js.map": "/medicalhmi/static/js/453.9f5fe743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16ac39f3.css",
+    "static/js/main.75b5210a.js"
+  ]
+}
