@@ -12,7 +12,7 @@ const Home = () => {
             <div id="main-section" className="flex flex-col lg:flex-row items-center justify-between px-12 py-16">
                 {/* Left Section: Title, Caption, Button */}
                 <div className="lg:w-1/2 text-center lg:text-left">
-                    <img src="/logofinal.jpg" alt="Logo" className="h-40 mx-auto lg:mx-0 mb-6" />
+                    <img src="/HMI/logofinal.jpg" alt="Logo" className="h-40 mx-auto lg:mx-0 mb-6" />
                     <h1 className="text-5xl font-bold text-gray-900 mb-6">Medical AI</h1>
                     <p className="text-lg text-gray-700 mb-8">
                        Medical AI transforms everyday life with innovative, AI-driven solutions to real-world challenges.

@@ -13,7 +13,7 @@ const ProjectOverview = () => {
                 {/* Member 1 */}
                 <div className="flex flex-col items-center border rounded-lg p-6 hover:shadow-xl transition-transform transform hover:scale-105 bg-white">
                     <img
-                        src="/avt5.jpg"
+                        src="/HMI/avt5.jpg"
                         alt="Nguyễn Đức Phúc Hoàng"
                         className="w-40 h-40 object-cover rounded-full mb-4 shadow-md"
                     />
@@ -30,7 +30,7 @@ const ProjectOverview = () => {
                 {/* Member 2 */}
                 <div className="flex flex-col items-center border rounded-lg p-6 hover:shadow-xl transition-transform transform hover:scale-105 bg-white">
                     <img
-                        src="/avt2.jpg"
+                        src="/HMI/avt2.jpg"
                         alt="Nguyễn Đình Thuận"
                         className="w-40 h-40 object-cover rounded-full mb-4 shadow-md"
                     />
@@ -47,7 +47,7 @@ const ProjectOverview = () => {
                 {/* Member 3 */}
                 <div className="flex flex-col items-center border rounded-lg p-6 hover:shadow-xl transition-transform transform hover:scale-105 bg-white">
                     <img
-                        src="/avt1.png"
+                        src="/HMI/avt1.png"
                         alt="Adina"
                         className="w-40 h-40 object-cover rounded-full mb-4 shadow-md"
                     />

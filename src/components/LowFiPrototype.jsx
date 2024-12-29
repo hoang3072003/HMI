@@ -7,12 +7,12 @@ function LowFiPrototype() {
 
     // Danh sách 6 hình ảnh
     const images = [
-        { src: '/conceptsketches/sketch1.jpg', label: 'Sketch 1' },
-        { src: '/conceptsketches/sketch2.jpg', label: 'Sketch 2' },
-        { src: '/conceptsketches/sketch3.jpg', label: 'Sketch 3' },
-        { src: '/conceptsketches/sketch4.jpg', label: 'Sketch 4' },
-        { src: '/conceptsketches/sketch5.jpg', label: 'Sketch 5' },
-        { src: '/conceptsketches/sketch6.jpg', label: 'Sketch 6' },
+        { src: '/HMI/conceptsketches/sketch1.jpg', label: 'Sketch 1' },
+        { src: '/HMI/conceptsketches/sketch2.jpg', label: 'Sketch 2' },
+        { src: '/HMI/conceptsketches/sketch3.jpg', label: 'Sketch 3' },
+        { src: '/HMI/conceptsketches/sketch4.jpg', label: 'Sketch 4' },
+        { src: '/HMI/conceptsketches/sketch5.jpg', label: 'Sketch 5' },
+        { src: '/HMI/conceptsketches/sketch6.jpg', label: 'Sketch 6' },
     ];
 
     const handleImageClick = (index) => {

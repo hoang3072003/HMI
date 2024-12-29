@@ -10,31 +10,31 @@ function MefiPrototype() {
     const tasks = [
         {
             label: 'Task 1: Overview',
-            images: [{ src: '/mefi/mefi1.jpg', label: 'Overview' }],
+            images: [{ src: '/HMI/mefi/mefi1.jpg', label: 'Overview' }],
         },
         {
             label: 'Task 2: Sign Up and Login',
             images: [
-                { src: '/mefi/mefi6.jpg', label: 'Sign Up' },
-                { src: '/mefi/mefi7.jpg', label: 'Login' },
+                { src: '/HMI/mefi/mefi6.jpg', label: 'Sign Up' },
+                { src: '/HMI/mefi/mefi7.jpg', label: 'Login' },
             ],
         },
         {
             label: 'Task 3: Book an Appointment',
             images: [
-                { src: '/mefi/mefi2.jpg', label: 'Step 1' },
-                { src: '/mefi/mefi3.jpg', label: 'Step 2' },
-                { src: '/mefi/mefi4.jpg', label: 'Step 3' },
-                { src: '/mefi/mefi5.jpg', label: 'Step 4' },
+                { src: '/HMI/mefi/mefi2.jpg', label: 'Step 1' },
+                { src: '/HMI/mefi/mefi3.jpg', label: 'Step 2' },
+                { src: '/HMI/mefi/mefi4.jpg', label: 'Step 3' },
+                { src: '/HMI/mefi/mefi5.jpg', label: 'Step 4' },
             ],
         },
         {
             label: 'Task 4: Chatbot',
             images: [
-                { src: '/mefi/mefi8.jpg', label: 'Chatbot Step 1' },
-                { src: '/mefi/mefi9.jpg', label: 'Chatbot Step 2' },
-                { src: '/mefi/mefi10.jpg', label: 'Chatbot Step 3' },
-                { src: '/mefi/mefi11.jpg', label: 'Chatbot Step 4' },
+                { src: '/HMI/mefi/mefi8.jpg', label: 'Chatbot Step 1' },
+                { src: '/HMI/mefi/mefi9.jpg', label: 'Chatbot Step 2' },
+                { src: '/HMI/mefi/mefi10.jpg', label: 'Chatbot Step 3' },
+                { src: '/HMI/mefi/mefi11.jpg', label: 'Chatbot Step 4' },
             ],
         },
     ];
