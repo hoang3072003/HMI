@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HMI/static/css/main.16ac39f3.css",
-    "main.js": "/HMI/static/js/main.e6912865.js",
+    "main.js": "/HMI/static/js/main.6e630084.js",
     "static/js/453.9f5fe743.chunk.js": "/HMI/static/js/453.9f5fe743.chunk.js",
     "index.html": "/HMI/index.html",
     "main.16ac39f3.css.map": "/HMI/static/css/main.16ac39f3.css.map",
-    "main.e6912865.js.map": "/HMI/static/js/main.e6912865.js.map",
+    "main.6e630084.js.map": "/HMI/static/js/main.6e630084.js.map",
     "453.9f5fe743.chunk.js.map": "/HMI/static/js/453.9f5fe743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16ac39f3.css",
-    "static/js/main.e6912865.js"
+    "static/js/main.6e630084.js"
   ]
 }
