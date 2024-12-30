@@ -11,7 +11,7 @@ function NeedFinding() {
                     {/* File Word 1 */}
                     <div className="bg-white shadow-lg rounded-md p-4 text-center hover:scale-105 transition-transform duration-300">
                         <h3 className="text-xl font-semibold text-gray-800">Consent Form</h3>
-                        <a href="/needfinding/Consent Form.docx" 
+                        <a href="/HMI/needfinding/Consent Form.docx" 
                             className="block mt-2 text-blue-600 hover:text-blue-800" 
                             download>
                             Download
@@ -21,7 +21,7 @@ function NeedFinding() {
                     {/* File Word 2 */}
                     <div className="bg-white shadow-lg rounded-md p-4 text-center hover:scale-105 transition-transform duration-300">
                         <h3 className="text-xl font-semibold text-gray-800">Interview Questionaire</h3>
-                        <a href="/needfinding/Interview Question.docx" 
+                        <a href="/HMI/needfinding/Interview Question.docx" 
                             className="block mt-2 text-blue-600 hover:text-blue-800" 
                             download>
                             Download
@@ -31,7 +31,7 @@ function NeedFinding() {
                     {/* File PPT */}
                     <div className="bg-white shadow-lg rounded-md p-4 text-center hover:scale-105 transition-transform duration-300">
                         <h3 className="text-xl font-semibold text-gray-800">Slides</h3>
-                        <a href="/needfinding/Slides.pptx" 
+                        <a href="/HMI/needfinding/Slides.pptx" 
                             className="block mt-2 text-blue-600 hover:text-blue-800" 
                             download>
                             Download
@@ -41,7 +41,7 @@ function NeedFinding() {
                     {/* File PDF */}
                     <div className="bg-white shadow-lg rounded-md p-4 text-center hover:scale-105 transition-transform duration-300">
                         <h3 className="text-xl font-semibold text-gray-800">Questionaire</h3>
-                        <a href="/needfinding/Questionaire.pdf" 
+                        <a href="/HMI/needfinding/Questionaire.pdf" 
                             className="block mt-2 text-blue-600 hover:text-blue-800" 
                             download>
                             Download

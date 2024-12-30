@@ -63,7 +63,7 @@ function LowFiPrototype() {
                     <h2 className="text-2xl font-semibold mb-2">Low-Fi Prototype Slide</h2>
                     <p className="text-gray-700 mb-4">Click below to view or download the slides for our prototype.</p>
                     <a
-                        href="/conceptsketches/slide.pptx"
+                        href="/HMI/conceptsketches/slide.pptx"
                         target="_blank"
                         rel="noopener noreferrer"
                         download="LowFiPrototypeSlide.pptx"
