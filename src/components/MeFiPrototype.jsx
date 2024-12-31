@@ -113,12 +113,12 @@ function MefiPrototype() {
                 {/* Figma Prototype Link */}
                 <div className="mt-10 text-center">
                     <a
-                        href="https://www.figma.com/proto/WaZSEPk05dzM4tD92qhDDx/HCI-Project?node-id=1-2&p=f&t=pGauPg8cZr1PkfmJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
+                        href="https://www.figma.com/proto/AbsyEGwhgVxo5VntSTPpdx/HCI-Project-(Copy)?node-id=1-2&t=Il82X9sQsCzfWQkF-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-blue-800 transition"
                     >
-                        Demo Website
+                        Figma Demo
                     </a>
                 </div>
             </div>

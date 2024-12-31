@@ -5,11 +5,12 @@ import NeedFinding from './NeedFinding';
 import ConceptVideo from './ConceptVideo';
 import LowFiPrototype from './LowFiPrototype';
 import MeFiPrototype from './MeFiPrototype';
+
 const Home = () => {
     return (
         <Layout>
             {/* Main Section */}
-            <div id="main-section" className="flex flex-col lg:flex-row items-center justify-between px-12 py-16">
+            <section id="main-section" className="flex flex-col lg:flex-row items-center justify-between px-12 py-16">
                 {/* Left Section: Title, Caption, Button */}
                 <div className="lg:w-1/2 text-center lg:text-left">
                     <img src="/HMI/logofinal.jpg" alt="Logo" className="h-40 mx-auto lg:mx-0 mb-6" />
@@ -28,21 +29,24 @@ const Home = () => {
                 <div className="lg:w-1/2 flex justify-center mt-8 lg:mt-0 space-x-4">
                     <img src="/HMI/banner5.jpg" alt="Mockup 1" className="h-96 shadow-lg" />
                 </div>
-            </div>
+            </section>
 
-            < ProjectOverview/>
-            <div id="need-finding" className="bg-gray-100">
+            {/* Other Sections */}
+            <section id="project-overview" className="bg-gray-100">
+                <ProjectOverview />
+            </section>
+            <section id="need-finding" className="bg-gray-100">
                 <NeedFinding />
-            </div>
-            <div id="concept-video" className="bg-gray-100">
+            </section>
+            <section id="concept-video" className="bg-gray-100">
                 <ConceptVideo />
-            </div>
-            <div id="lowfi-prototype" className="bg-gray-100">
+            </section>
+            <section id="lowfi-prototype" className="bg-gray-100">
                 <LowFiPrototype />
-            </div>
-            <div id="mefi-prototype" className="bg-gray-100">
+            </section>
+            <section id="mefi-prototype" className="bg-gray-100">
                 <MeFiPrototype />
-            </div>
+            </section>
         </Layout>
     );
 };
